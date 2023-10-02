@@ -1,0 +1,16 @@
+.dot {
+    height: 200px;
+    width: 200px;
+    background-color: green;
+    border-radius: 50%;
+    display: inline-block;
+  }
+  /* Add your existing styling */
+body {
+    font-family: Arial, sans-serif;
+}
+
+/* Add a CSS rule to change the text color */
+#output {
+    color: white; /* You can replace "blue" with your desired color */
+}
